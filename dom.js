@@ -30,6 +30,6 @@ const pigLatin = (word) => {
     }
   
   
-    // Your code here
+    // Your code right here
   
   }
